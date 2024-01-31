@@ -4,7 +4,7 @@ Thank you for your interest in contributing to our Keyword Reverse Lookup API pr
 
 # How to Contribute
 __
-Familiarize Yourself with the Project: Before contributing, please take some time to go through the existing list of keywords in our repository. This will give you an idea of what has already been added and what might still be needed.
+Familiarize Yourself with the Project: Before contributing, please take some time to go through the existing list of domains in our repository. This will give you an idea of what has already been added and what might still be needed.
 
 
  •Check for Open Issues: Look through the open issues to see if there are any that you can address. If you find one, comment that you're working on it to avoid duplicate efforts.
