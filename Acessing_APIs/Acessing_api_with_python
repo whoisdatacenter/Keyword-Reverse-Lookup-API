@@ -1,0 +1,11 @@
+# Python
+import requests
+
+api_key = 'place_your_api_key_here'
+keyword = 'programming' # Replace with the keyword you want to look up
+api_url = 'https://api.whoisdatacenter.com/v1/keyword?apiKey={api_key}&keyword={keyword}'
+
+response = requests.get(api_url)
+data = response.json()
+
+print(data)
