@@ -1,0 +1,8 @@
+#!/bin/bash
+
+api_key='place_your_api_key_here'
+keyword='your_keyword_here' # Replace with the keyword you want to look up
+api_url="https://api.whoisdatacenter.com/v1/keyword?apiKey=${api_key}&keyword=${keyword}"
+
+response=$(curl -s $api_url)
+echo $response
