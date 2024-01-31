@@ -1,0 +1,20 @@
+// C#
+using System;
+using System.Net.Http;
+using System.Threading.Tasks;
+
+class Program
+{
+static async Task Main()
+{
+string apiKey = "place_your_api_key_here";
+string keyword = "programming"; // Replace with the keyword you want to look up
+string apiUrl = $"https://api.whoisdatacenter.com/v1/keyword?apiKey={apiKey}&keyword={keyword}";
+
+using (HttpClient client = new HttpClient())
+{
+string response = await client.GetStringAsync(apiUrl);
+Console.WriteLine(response);
+}
+}
+}
