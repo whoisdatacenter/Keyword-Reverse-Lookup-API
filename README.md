@@ -44,7 +44,7 @@ POST/GET https://api.whoisdatacenter.com/v1/keyword
 }
 ```
 
-___
+[___
 **Want more free API for Domains Related Data***
 <br/>
 
@@ -148,8 +148,6 @@ Key Points:
 <br/>
 
 •Recommended Action: Please consider a brief pause in your requests to avoid reaching the limit and a potential temporary 24-hour block.
-
-
 
 
 
