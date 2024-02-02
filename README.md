@@ -6,7 +6,7 @@ ___
 **Introduction**
  <br />
  
-Welcome to the Keyword Reverse Lookup API, an innovative tool engineered to extract meaningful keywords from domain information. It's crafted for professionals who need to distill valuable keywords from domain data, aiding in SEO optimization, competitive analysis, and digital marketing strategies. Whether you're analyzing market trends, researching competitive domains, or enhancing your cybersecurity measures, our API offers a precise, efficient, and insightful means to achieve your goals.
+**Welcome to the Keyword Reverse Lookup API, an innovative tool engineered to extract meaningful keywords from domain information. It's crafted for professionals who need to distill valuable keywords from domain data, aiding in SEO optimization, competitive analysis, and digital marketing strategies. Whether you're analyzing market trends, researching competitive domains, or enhancing your cybersecurity measures, our API offers a precise, efficient, and insightful means to achieve your goals.**
 
 ___
 
